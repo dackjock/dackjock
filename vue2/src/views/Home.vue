@@ -14,5 +14,9 @@ export default {
   components: {
     HelloWorld,
   },
+  created(){
+  
+  },
+  methods:{},
 };
 </script>
